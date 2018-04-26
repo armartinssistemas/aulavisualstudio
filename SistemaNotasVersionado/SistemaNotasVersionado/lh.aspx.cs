@@ -13,5 +13,10 @@ namespace SistemaNotasVersionado
         {
 
         }
+
+        protected void Btngravar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

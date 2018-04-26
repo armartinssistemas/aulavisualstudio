@@ -24,7 +24,7 @@
             <asp:TextBox ID="txt_nota2" runat="server"></asp:TextBox>
         </p>
         <asp:Button ID="btn_novo" runat="server" Text="NOVO" />
-        <asp:Button ID="btn_gravar" runat="server" Text="GRAVAR" />
+        <asp:Button ID="btn_gravar" runat="server" Text="GRAVAR" OnClick="btn_gravar_Click" />
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None">
             <AlternatingRowStyle BackColor="White" />
             <Columns>
