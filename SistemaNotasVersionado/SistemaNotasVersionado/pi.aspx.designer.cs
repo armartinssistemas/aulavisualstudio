@@ -94,6 +94,24 @@ namespace SistemaNotasVersionado {
         protected global::System.Web.UI.WebControls.TextBox txt_Nota2;
         
         /// <summary>
+        /// btn_Novo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_Novo;
+        
+        /// <summary>
+        /// btn_Gravar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_Gravar;
+        
+        /// <summary>
         /// grid control.
         /// </summary>
         /// <remarks>

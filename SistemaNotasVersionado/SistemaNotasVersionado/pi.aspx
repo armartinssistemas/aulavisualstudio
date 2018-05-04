@@ -26,7 +26,8 @@
         <asp:Label ID="lbl_Nota2" runat="server" Text="Nota 2:"></asp:Label>
         <asp:TextBox ID="txt_Nota2" runat="server"></asp:TextBox>
     </p> 
-             
+        <asp:Button ID="btn_Novo" runat="server" Text="Novo" />
+        <asp:Button ID="btn_Gravar" runat="server" Text="Gravar" />     
     </div>
 
     <div>

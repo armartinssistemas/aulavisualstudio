@@ -28,7 +28,7 @@
     </div>
         <p>
             <asp:Button ID="btnnovo" runat="server" Text="Novo" />
-            <asp:Button ID="btngravar" runat="server" style="margin-left: 47px" Text="Gravar" />
+            <asp:Button ID="btngravar" runat="server" style="margin-left: 47px" Text="Gravar"/>
         </p>
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" EnableTheming="True">
             <Columns>
