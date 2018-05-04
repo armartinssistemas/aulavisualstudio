@@ -24,7 +24,7 @@
         <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
         <p>
             <asp:Button ID="Button1" runat="server" Text="Novo" OnClick="hyh6h6h" />
-            <asp:Button ID="Button2" runat="server" Text="Gravar" OnClick="click"/>
+            <asp:Button ID="Button2" runat="server" Text="Gravar"/>
         </p>
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" Height="32px">
             <Columns>
