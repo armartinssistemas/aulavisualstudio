@@ -22,7 +22,7 @@
         <asp:Label ID="Label3" runat="server" Text="Nota2: "></asp:Label>
         <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
         <br />
-        <asp:Button ID="Button1" runat="server" Text="Novo" />
+        <asp:Button ID="Button1" runat="server" Text="Novo" OnClick="Button1_Click" />
 &nbsp;&nbsp;&nbsp;
         <asp:Button ID="Button2" runat="server" Text="Gravar" OnClick="Button2_Click" />
         <br />
